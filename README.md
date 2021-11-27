@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Icydemand
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVASCRIPT and JAVA
 
 
 <!---
